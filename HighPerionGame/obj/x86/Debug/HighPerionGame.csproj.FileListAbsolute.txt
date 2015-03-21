@@ -1,0 +1,10 @@
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\HighPerionGame\bin\Debug\HighPerionGame.exe
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\HighPerionGame\bin\Debug\HighPerionGame.pdb
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\HighPerionGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\HighPerionGame\obj\x86\Debug\HighPerionGame.exe
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\HighPerionGame\obj\x86\Debug\HighPerionGame.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\HighPerionGame\HighPerionGame\obj\x86\Debug\HighPerionGame.exe
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\HighPerionGame\HighPerionGame\obj\x86\Debug\HighPerionGame.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\HighPerionGame\HighPerionGame\bin\Debug\HighPerionGame.exe
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\HighPerionGame\HighPerionGame\bin\Debug\HighPerionGame.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\HighPerionGame\HighPerionGame\obj\x86\Debug\ResolveAssemblyReference.cache
